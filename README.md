@@ -14,3 +14,4 @@ https://www.kaggle.com/c/ieee-fraud-detection/overview
 3) Built Machine Learning models to predict the likelihood of fraud
 4) Productization by building a prototype with a front end for our model
 
+For more details on our work, please visit our blog https://medium.com/@matt.viteri/fighting-fraud-the-machine-learning-way-d4d4118e29f4
